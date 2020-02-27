@@ -4,6 +4,20 @@ Single channel noise reduction based on TCN.
 
 Users are limited to members in CIAIC.
 
+Requirements: 
+python3
+
+torch==1.0.0
+
+tqdm==4.26.0
+
+numpy==1.15.2
+
+scipy==1.1.0
+
+librosa
+
+soundfile
 
 ##################################################################
 
